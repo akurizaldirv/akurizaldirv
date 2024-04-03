@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Go-Lang and Spring Boot**
 
-- 👨‍💻 All of my projects are available at [still working](still working)
+- 👨‍💻 All of my projects are available at ____
 
 - 📫 How to reach me **akurizaldirv@gmail.com**
 
