@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently learning on **Enigma Camp**
 
-- 🌱 I’m currently learning **Go-Lang and Spring Boot**
+- 🌱 I’m currently learning **Mobile App Development**
 
 - 👨‍💻 All of my projects are available at ____
 
